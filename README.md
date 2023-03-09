@@ -1,2 +1,3 @@
 # FahrezaBotz
-BOT untum whatsapp dan banyak keperluan nya
+BOT untuk
+ whatsapp dan banyak keperluan nya
